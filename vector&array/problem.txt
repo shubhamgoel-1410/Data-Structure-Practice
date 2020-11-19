@@ -1,0 +1,7 @@
+problem:
+
+VECTOR
+1. rearranging alternatively
+2.merge_without extra space
+3.number of pair
+4.inversion of array(merge sort.....count no. of swap)
